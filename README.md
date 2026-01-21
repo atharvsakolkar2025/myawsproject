@@ -95,7 +95,5 @@ Secure access and role-based permissions
 Manual cloud resource management
 
 Author
-Atharv [or your preferred name]
+Atharv 
 
-Contributing
-Suggestions, improvements, or questions are welcome. Please raise an issue or submit a pull request.
